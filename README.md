@@ -12,7 +12,7 @@ Ganache: http://truffleframework.com/ganache/
 Metamask: https://metamask.io/
 
 # Step 1. Clone the project
-~$ git clone https://github.com/A-G-U-P-T-A/election-system-dapp.git
+~$ git clone https://github.com/computerwala/Dapp-Voting-app.git
 
 # Step 2. Install dependencies
 ~$ cd election
